@@ -3,6 +3,7 @@
     "displayName": "mulder-theme",
     "description": "My own theme",
     "version": "0.0.1",
+    "publisher": "mulder-theme-dark",
     "engines": {
         "vscode": "^1.55.0"
     },
