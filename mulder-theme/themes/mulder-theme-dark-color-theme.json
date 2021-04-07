@@ -4,12 +4,13 @@
 	"colors": {
 		"editor.background": "#112033",
 		"editor.foreground": "#eeffff",
-		"sideBar.background": "#241441",
 		"activityBarBadge.background": "#007acc",
-		"activityBar.background": "#0c3738",
-		"activityBar.activeBackground": "#0c3738",
-		"tab.activeBackground": "#52227a",
-		"tab.inactiveBackground": "#241441",
+		"activityBar.background": "#1a2958",
+		"activityBar.activeBackground": "#08268b",
+		"tab.activeBackground": "#08268b",
+		"tab.inactiveBackground": "#1a2958",
+		"sideBar.background": "#121c3d",
+		"sideBar.border": "#08268b",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
