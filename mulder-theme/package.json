@@ -2,8 +2,9 @@
     "name": "mulder-theme",
     "displayName": "mulder-theme",
     "description": "My own theme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "mulder-theme-dark",
+    "icon": "./icons/logo.png",
     "engines": {
         "vscode": "^1.55.0"
     },
