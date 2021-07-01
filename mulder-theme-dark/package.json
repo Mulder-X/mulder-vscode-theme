@@ -1,0 +1,27 @@
+{
+    "name": "mulder-theme",
+    "displayName": "mulder-theme",
+    "description": "My own theme",
+    "version": "0.0.1",
+    "publisher": "mulder-theme-dark",
+    "icon": "icons/logo.png",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "mulder-theme-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mulder-theme-dark-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Mulder-X/mulder-vscode-theme.git"
+    }
+}
