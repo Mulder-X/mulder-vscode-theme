@@ -3,9 +3,12 @@
 	"type": "light",
 	"colors": {
 		"editor.background": "#eff7f7",
-		"editor.foreground": "#388f9b",
+		"editor.foreground": "#149da7",
 		"tab.activeBackground": "#eff7f7",
 		"tab.inactiveBackground": "#d6f4f8",
+		"tab.activeForeground": "#78007c",
+		"sideBar.background": "#eff9fa",
+		"sideBar.foreground": "#89068d",
 		"editorSuggestWidget.selectedBackground": "#03b4a5",
 		"editorSuggestWidget.foreground": "#237a73"
 	},
@@ -92,7 +95,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#14a154"
+				"foreground": "#03a04a"
 			}
 		},
 		{
@@ -147,7 +150,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#475f3d"
+				"foreground": "#4f773e"
 			}
 		},
 		{
